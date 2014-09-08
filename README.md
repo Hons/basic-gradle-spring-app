@@ -1,1 +1,1 @@
-Experiments with websockets!
+Basic app for gralde+spring
